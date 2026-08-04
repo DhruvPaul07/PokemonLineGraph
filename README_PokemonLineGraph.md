@@ -41,3 +41,14 @@ When prompted, enter:
 ## Dataset
 
 `pokemon 2.csv` contains entries for all Pokémon through Generation 8, including regional forms and Gigantamax variants. Columns used: `name`, `hp`, `attack`, `legendary`.
+
+## Output
+
+### Mode 1 — Outlier Labels
+![Outliers](pokemon_outliers.png)
+
+### Mode 2 — Pseudo-Legendaries
+![Pseudo-Legendaries](pokemon_pseudolegendary.png)
+
+### Mode 3 — Legendaries
+![Legendaries](pokemon_legendary.png)
